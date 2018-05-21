@@ -1,0 +1,5 @@
+#!/bin/sh
+#Name : test.sh
+
+echo "hello how are you" 
+exit
